@@ -1,0 +1,27 @@
+img{
+    width: 900px;
+    margin-left: 220px;
+
+
+}
+
+.cabecalho{
+  background-color: gray;
+display: flex;
+}
+
+.listacabecalho{
+   display: flex;
+   margin-left: 760px;
+   margin-top: 100px;
+
+}
+.itemlistacabecalho{
+  list-style: none;
+  padding-left: 10px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+
+
